@@ -1,0 +1,10 @@
+ceci est un n-ieme test de commit/push
+
+ca avait pas marche car j avais oublie de mettre git add.
+
+Donc 
+
+git add .
+git commit -m "bla bla bla"
+git push -u origin main
+
