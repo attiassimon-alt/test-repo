@@ -1,0 +1,7 @@
+Méthode :
+
+*faire ses modifs soit meme, rajout de fichiers /dosssiers, modifications etc*
+
+git add .
+git commit -m "etc"
+git push -u origin main
